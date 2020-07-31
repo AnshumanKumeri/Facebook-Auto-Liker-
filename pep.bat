@@ -1,0 +1,1 @@
+ruby AUtoLiker.rb "./credentials.json" "https://www.facebook.com/Sttheresasconvent/" 15
